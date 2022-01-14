@@ -1,0 +1,14 @@
+{
+    "learning_rate": 0.01,
+    "num_hidden": 128,
+    "num_proj_hidden": 128,
+    "activation": "leakyrelu",
+    "k": 7,
+    "drop_edge_rate_1": 0.2,
+    "drop_edge_rate_2": 0.3,
+    "drop_feature_rate_1": 0.3,
+    "drop_feature_rate_2": 0.2,
+    "tau": 0.3,
+    "alpha": 0.7,
+    "num_epochs": 2000
+}
